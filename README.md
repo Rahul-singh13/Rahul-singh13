@@ -52,18 +52,20 @@
 
 ---
 
-### 🚀 Featured Project Showcases
+### 🚀 Live Recent & Featured Engineering Showcases
 
-| Project | Key Highlights & Architectural Overview | Tech Stack | Link |
-| :--- | :--- | :--- | :--- |
-| 🎓 **[IMSEC College ERP Portal](https://github.com/Rahul-singh13/imsec-college-erp-portal)** | 100% pixel-perfect educational clone of college ERP with 29 functional views, decoupled mock backend services & zero-dependency offline mode. | `React 18`, `Vite`, `Modular Services`, `Custom CSS` | [🔗 Open Project](https://github.com/Rahul-singh13/imsec-college-erp-portal) |
-| ⚡ **[Ciao Energy 3D Experience](https://github.com/Rahul-singh13/ciao-energy-3d-experience)** | Interactive 3D WebGL product showcase featuring real-time lighting, smooth GSAP physics animations, and Lenis smooth scrolling. | `Three.js`, `GSAP`, `WebGL`, `Lenis` | [🔗 Open Project](https://github.com/Rahul-singh13/ciao-energy-3d-experience) |
-| 🍽️ **[Foodhunter Atelier](https://github.com/Rahul-singh13/Foodhunter-restaurant)** | Luxury fine dining atelier & culinary website featuring editorial dark aesthetics, interactive menu showcase, and instant reservation module. | `HTML5`, `Vanilla CSS`, `JavaScript` | [🔗 Open Project](https://github.com/Rahul-singh13/Foodhunter-restaurant) |
-| 🤖 **[Generative AI Suite](https://github.com/Rahul-singh13?tab=repositories&q=PRODIGY)** | Advanced machine learning research implementations: GPT-2 fine-tuning, Stable Diffusion (SD 1.5), Pix2Pix cGAN, and Neural Style Transfer. | `PyTorch`, `Transformers`, `Diffusion`, `cGAN` | [🔗 Explore Suite](https://github.com/Rahul-singh13?tab=repositories&q=PRODIGY) |
-| 🧠 **[LifeOS & DWAR](https://github.com/Rahul-singh13/LifeOS)** | Personal operating system and date-wise reflection diary for daily milestone tracking, habit analytics, and goal management. | `JavaScript`, `State Persistence`, `UI/UX` | [🔗 Open Project](https://github.com/Rahul-singh13/LifeOS) |
+| Project | Key Highlights & Architectural Overview | Tech Stack | Last Active | Link |
+| :--- | :--- | :--- | :--- | :--- |
+| 🎓 **[Imsec College Erp Portal](https://github.com/Rahul-singh13/imsec-college-erp-portal)** | 🎓 High-fidelity React 18.3.1 + Vite educational clone of IMSEC College ERP with 29 modules, decoupled mock backend services & vanilla design system. | `clean-code`, `fullstack`, `javascript` | `Sep 11, 2026` | [🔗 View Project](https://github.com/Rahul-singh13/imsec-college-erp-portal) |
+| ⚡ **[Ciao Energy 3d Experience](https://github.com/Rahul-singh13/ciao-energy-3d-experience)** | An immersive, high-performance 3D WebGL interactive product experience inspired by Ciao Energy. Built with Three.js, GSAP, and Lenis Smooth Scroll. | `HTML`, `fullstack` | `Sep 8, 2026` | [🔗 View Project](https://github.com/Rahul-singh13/ciao-energy-3d-experience) |
+| 🚀 **[DWAR](https://github.com/Rahul-singh13/DWAR)** | A personal daily reflection diary to track what you did, what you’ll do, achievements, regrets, feelings, and daily motivation — with persistent date-wise entries. | `TypeScript`, `fullstack` | `Sep 4, 2026` | [🔗 View Project](https://github.com/Rahul-singh13/DWAR) |
+| 🤖 **[PRODIGY GA 05](https://github.com/Rahul-singh13/PRODIGY_GA_05)** | Neural Style Transfer using Deep Convolutional Neural Networks and TensorFlow Hub — Prodigy InfoTech Generative AI Internship (Task-05) | `Jupyter Notebook`, `fullstack` | `Aug 28, 2026` | [🔗 View Project](https://github.com/Rahul-singh13/PRODIGY_GA_05) |
+| 🤖 **[PRODIGY GA 01](https://github.com/Rahul-singh13/PRODIGY_GA_01)** | Text Generation with GPT-2 — Fine-tuning a pre-trained GPT-2 Transformer model on a custom dataset for coherent and contextually relevant text generation using Hugging Face Transformers and PyTorch. | `Python`, `fullstack` | `Aug 27, 2026` | [🔗 View Project](https://github.com/Rahul-singh13/PRODIGY_GA_01) |
+| 🤖 **[PRODIGY GA 02](https://github.com/Rahul-singh13/PRODIGY_GA_02)** | Text-to-Image generation pipeline using pre-trained Stable Diffusion (SD 1.5) with interactive runtime prompt input and batch processing. Developed for Prodigy InfoTech Generative AI Internship (Task-02). | `Python`, `fullstack` | `Aug 26, 2026` | [🔗 View Project](https://github.com/Rahul-singh13/PRODIGY_GA_02) |
+| 🍽️ **[Foodhunter Restaurant](https://github.com/Rahul-singh13/Foodhunter-restaurant)** | 🍽️ FOODHUNTER — A luxury culinary atelier & fine dining website featuring dark editorial aesthetics, interactive menu, wine pairing showcase, and instant table reservations. Built with HTML5, Vanilla CSS & JavaScript. | `CSS`, `fullstack` | `Aug 22, 2026` | [🔗 View Project](https://github.com/Rahul-singh13/Foodhunter-restaurant) |
 
 ---
 
 <div align="center">
-  <sub>✨ Designed & Maintained by <a href="https://github.com/Rahul-singh13"><b>Rahul Singh</b></a> &nbsp;|&nbsp; Edition: <b>Midnight Cobalt</b></sub>
+  <sub>✨ Designed & Dynamically Maintained by <a href="https://github.com/Rahul-singh13"><b>Rahul Singh</b></a> &nbsp;|&nbsp; Edition: <b>Midnight Cobalt</b></sub>
 </div>

@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=38BDF8&center=true&vCenter=true&width=580&lines=Hi+there%2C+I%27m+Rahul+Singh+%F0%9F%91%8B;Full-Stack+Engineer+%E2%9A%A1;Crafting+Pixel-Perfect+Web+Apps+%F0%9F%8F%9B%EF%B8%8F;Pushing+Clean+Code+Every+Single+Day+%F0%9F%94%A5" alt="Dynamic Header" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&pause=1000&color=F59E0B&center=true&vCenter=true&width=580&lines=Hi+there%2C+I%27m+Rahul+Singh+%F0%9F%8C%9F;Creative+Software+Engineer+%F0%9F%9A%80;Building+Fast%2C+Decoupled+%26+Modern+Apps;Exploring+Generative+AI+%26+3D+Experiences+%E2%9C%A8" alt="Dynamic Header" />
 
   <p align="center">
     <b>🚀 Software Engineer &nbsp;|&nbsp; Creative Full-Stack Developer &nbsp;|&nbsp; Generative AI Explorer</b><br>
@@ -9,7 +9,7 @@
   <p align="center">
     <a href="https://github.com/Rahul-singh13"><img src="https://img.shields.io/badge/GitHub-Rahul_Singh-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
     <a href="https://github.com/Rahul-singh13?tab=repositories"><img src="https://img.shields.io/badge/Public_Repositories-Explore_Projects-0969da?style=for-the-badge&logo=git&logoColor=white" /></a>
-    <img src="https://img.shields.io/badge/Edition-Midnight_Cobalt_%F0%9F%8C%8C-38bdf8?style=for-the-badge&logoColor=black" />
+    <img src="https://img.shields.io/badge/Mood-Sunset_Gold_%F0%9F%8C%85-f59e0b?style=for-the-badge&logoColor=black" />
     <img src="https://img.shields.io/badge/Daily_Streak-Active_%26_Growing-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
   </p>
 </div>
@@ -21,7 +21,7 @@
 - 🏛️ **Full-Stack Craftsmanship**: Focused on building decoupled, scalable applications with clean component architecture and responsive design systems.
 - ⚡ **Frontend & 3D Web**: Advanced UI engineering with **React 18, Vite, Three.js, GSAP Animations**, and custom Vanilla CSS design tokens.
 - 🤖 **Generative AI & Deep Learning**: Actively fine-tuning and deploying **Transformers (GPT-2), Stable Diffusion (SD 1.5), Pix2Pix cGANs**, and Neural Style Transfer models.
-- 💬 **Thought of the Day**: *"The best way to predict the future is to invent it." — Alan Kay*
+- 💬 **Thought of the Day**: *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand." — Martin Fowler*
 
 ---
 
@@ -56,7 +56,7 @@
 
 | Project | Key Highlights & Architectural Overview | Tech Stack | Last Active | Link |
 | :--- | :--- | :--- | :--- | :--- |
-| 🎓 **[Imsec College Erp Portal](https://github.com/Rahul-singh13/imsec-college-erp-portal)** | 🎓 High-fidelity React 18.3.1 + Vite educational clone of IMSEC College ERP with 29 modules, decoupled mock backend services & vanilla design system. | `clean-code`, `fullstack`, `javascript` | `Sep 11, 2026` | [🔗 View Project](https://github.com/Rahul-singh13/imsec-college-erp-portal) |
+| 🎓 **[Imsec College Erp Portal](https://github.com/Rahul-singh13/imsec-college-erp-portal)** | 🎓 High-fidelity React 18.3.1 + Vite educational clone of IMSEC College ERP with 29 modules, decoupled mock backend services & vanilla design system. | `clean-code`, `fullstack`, `javascript` | `Sep 12, 2026` | [🔗 View Project](https://github.com/Rahul-singh13/imsec-college-erp-portal) |
 | ⚡ **[Ciao Energy 3d Experience](https://github.com/Rahul-singh13/ciao-energy-3d-experience)** | An immersive, high-performance 3D WebGL interactive product experience inspired by Ciao Energy. Built with Three.js, GSAP, and Lenis Smooth Scroll. | `HTML`, `fullstack` | `Sep 8, 2026` | [🔗 View Project](https://github.com/Rahul-singh13/ciao-energy-3d-experience) |
 | 🚀 **[DWAR](https://github.com/Rahul-singh13/DWAR)** | A personal daily reflection diary to track what you did, what you’ll do, achievements, regrets, feelings, and daily motivation — with persistent date-wise entries. | `TypeScript`, `fullstack` | `Sep 4, 2026` | [🔗 View Project](https://github.com/Rahul-singh13/DWAR) |
 | 🤖 **[PRODIGY GA 05](https://github.com/Rahul-singh13/PRODIGY_GA_05)** | Neural Style Transfer using Deep Convolutional Neural Networks and TensorFlow Hub — Prodigy InfoTech Generative AI Internship (Task-05) | `Jupyter Notebook`, `fullstack` | `Aug 28, 2026` | [🔗 View Project](https://github.com/Rahul-singh13/PRODIGY_GA_05) |
@@ -67,5 +67,5 @@
 ---
 
 <div align="center">
-  <sub>✨ Designed & Dynamically Maintained by <a href="https://github.com/Rahul-singh13"><b>Rahul Singh</b></a> &nbsp;|&nbsp; Edition: <b>Midnight Cobalt</b></sub>
+  <sub>✨ Designed & Dynamically Maintained by <a href="https://github.com/Rahul-singh13"><b>Rahul Singh</b></a> &nbsp;|&nbsp; Edition: <b>Sunset Gold</b></sub>
 </div>
